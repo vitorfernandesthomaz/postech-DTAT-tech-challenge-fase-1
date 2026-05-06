@@ -162,7 +162,7 @@ O que foi comprovado pelo dataset é a existência do gargalo: prazos e fretes m
 
 O notebook principal do projeto está disponível neste repositório:
 
-- `TechChallenge_FASE_1_VF.ipynb`
+- `TechChallenge_FASE_1_VF.ipynb` (Link no drive: https://drive.google.com/file/d/1blVV2acgbE6QpaITUkFuKEmd1CzbuzHR/view?usp=drive_link)
 
 Nele estão documentadas as etapas de carregamento, tratamento, análise e geração dos gráficos.
 
@@ -172,7 +172,7 @@ Nele estão documentadas as etapas de carregamento, tratamento, análise e gera�
 
 O relatório executivo está disponível em:
 
-- `Relatorio Executivo - TechChallenge - Fase 1.pdf`
+- `Relatorio Executivo - TechChallenge - Fase 1.pdf` (link no drive: https://drive.google.com/file/d/1tXHM04q5J9e9prCt0cQ1jp3CP4eQFLnP/view?usp=drive_link)
 
 O documento apresenta contexto, metodologia, diagnóstico logístico, matriz de oportunidade, recomendações executivas e limites da análise.
 
@@ -182,7 +182,7 @@ O documento apresenta contexto, metodologia, diagnóstico logístico, matriz de 
 
 A apresentação utilizada no vídeo está disponível em:
 
-- `Apresentacao_Olist_Eficiencia_Geo_Estrategica.pdf`
+- `Apresentacao_Olist_Eficiencia_Geo_Estrategica.pdf` (link no drive: https://drive.google.com/file/d/1kjMBFfjl9-7ct6CtINyoxkXI1CSSkyFl/view?usp=drive_link)
 
 A apresentação foi estruturada com foco em storytelling executivo, conectando diagnóstico, oportunidade, plano de ação e impacto esperado.
 
@@ -192,7 +192,7 @@ A apresentação foi estruturada com foco em storytelling executivo, conectando 
 
 O vídeo executivo gravado para apresentação do projeto está disponível em:
 
-- `Olist_Eficiencia_Geo_Estrategica_video.mp4`
+- [Vídeo executivo - Google Drive] (https://drive.google.com/file/d/1dY3iigoa8odG9afN4URWmI4Sk2aaOHRv/view?usp=drive_link)
 
 O vídeo apresenta a análise em linguagem executiva, com foco em tomada de decisão.
 
