@@ -198,6 +198,30 @@ O vídeo apresenta a análise em linguagem executiva, com foco em tomada de deci
 
 ---
 
+## 📊 Gráficos gerados
+
+Os principais gráficos da análise estão disponíveis na pasta `graficos/`:
+
+- `grafico_1_ranking_entrega_validado.png`: ranking dos estados com maior tempo médio de entrega.
+- `grafico_2_custo_vs_performance_validado.png`: relação entre frete médio e prazo médio de entrega por UF.
+- `grafico_3_matriz_expansao_validado.png`: matriz de expansão estratégica, cruzando potencial econômico e eficiência logística.
+
+### Visualização dos gráficos
+
+#### Ranking de tempo médio de entrega por estado
+
+![Ranking de tempo médio de entrega] (graficos/grafico_1_ranking_entrega_validado.png)
+
+#### Custo de frete vs. prazo de entrega
+
+![Custo de frete vs prazo de entrega](graficos/grafico_2_custo_vs_performance_validado.png)
+
+#### Matriz de expansão estratégica
+
+![Matriz de expansão estratégica](graficos/grafico_3_matriz_expansao_validado.png)
+
+---
+
 ## 🛠️ Ferramentas utilizadas
 
 - Python
